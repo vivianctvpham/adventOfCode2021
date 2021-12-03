@@ -1,0 +1,7 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vivianctvpham/adventOfCode2021.git",
+  "license": "MIT"
+}
